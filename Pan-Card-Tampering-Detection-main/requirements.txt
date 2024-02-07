@@ -1,10 +1,6 @@
-numpy==1.19.3
-Flask==1.1.1
-imutils==0.5.3
-Keras==2.6
-opencv-python==4.4.0.46
-Pillow==8.0.1
-tensorflow==2.6.0
-scikit-image==0.19.3
-streamlit
-python-3.9.7
+Flask
+imutils
+opencv-python-headless==4.2.0.32
+Pillow
+scikit-image
+gunicorn
